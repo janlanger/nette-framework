@@ -25,5 +25,10 @@
 	},
 	"replace": {
 		"nette/nette": "~2.2"
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "2.2-dev"
+		}
 	}
 }
