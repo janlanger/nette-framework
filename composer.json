@@ -1,5 +1,5 @@
 {
-	"name": "nextras/nette-framework",
+	"name": "janlanger/nette-framework",
 	"type": "metapackage",
 	"require": {
 		
